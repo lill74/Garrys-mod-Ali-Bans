@@ -11,4 +11,4 @@
 * [벤 사유 보기](https://raw.githubusercontent.com/lill74/Garrys-mod-Ali-Bans/master/cuz.html)
 
 >차단 소명
-차단 소명은 관리자에게 연락을 해주시면 됩니다.
+* 차단 소명은 관리자에게 연락을 해주시면 됩니다.
