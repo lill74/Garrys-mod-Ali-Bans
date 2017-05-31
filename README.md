@@ -1,1 +1,2 @@
-# Garrys-mod-Ali-Bans
+# 게리모드 연합벤 시스템
+
